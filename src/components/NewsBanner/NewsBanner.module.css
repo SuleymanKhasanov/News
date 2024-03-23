@@ -3,6 +3,7 @@
   width: 100%;
   flex-direction: column;
   gap: 12px;
+  border-radius: 20px;
 }
 
 .title {
