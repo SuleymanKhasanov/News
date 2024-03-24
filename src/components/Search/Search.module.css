@@ -1,0 +1,13 @@
+.search {
+  display: flex;
+  width: 100%;
+  gap: 12px;
+}
+
+.input {
+  width: 100%;
+  padding: 15px 19px;
+  border: 1px solid #d7d7d7;
+  border-radius: 15px;
+  font-family: inherit;
+}
